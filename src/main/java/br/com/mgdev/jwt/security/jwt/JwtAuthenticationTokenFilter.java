@@ -23,6 +23,11 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter{
 	@Autowired
 	private UserDetailsService userDetailsService;
 
+	/*
+	 * Metodo que realiza o filtro nas requisições, valida a existencia de um Token no header e,
+	 * por questões de testes, executa um log para registrar a chamada.
+	 * 
+	 */
 	@Override
 	protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain)
 			throws ServletException, IOException {
