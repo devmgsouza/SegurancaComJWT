@@ -14,7 +14,10 @@ Abaixo o link de cada Artigo:
 - https://medium.com/@dev.mgsouza/seguran%C3%A7a-da-api-definindo-cors-parte-3-89ea8137fe02
 
 ### Parte 4
+- https://medium.com/@dev.mgsouza/seguran%C3%A7a-da-api-websecurityconfig-parte-6-b229c16a71f6
 
 ### Parte 5
+- https://medium.com/@dev.mgsouza/seguran%C3%A7a-da-api-entidades-parte-5-3a9ef79c2d7e
 
 ### Parte 6
+- https://medium.com/@dev.mgsouza/seguran%C3%A7a-da-api-configurando-o-pacote-jwt-parte-4-3d15838c273e
