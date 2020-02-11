@@ -1,4 +1,4 @@
-# SegurancaComJWT
+# Segurança da API com JWT
 Esta aplicação faz parte do Artigo publicado no Medium com finalidade de orientar desenvolvedores 
 Java a implementar segurança em sua API utilizando Spring Security e JWT.
 
