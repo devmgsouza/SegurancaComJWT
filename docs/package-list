@@ -1,0 +1,10 @@
+br.com.bradseg.capd.capdglobalapi
+br.com.bradseg.capd.capdglobalapi.common.entity
+br.com.bradseg.capd.capdglobalapi.common.enums
+br.com.bradseg.capd.capdglobalapi.common.exception
+br.com.bradseg.capd.capdglobalapi.common.utils
+br.com.bradseg.capd.capdglobalapi.health.controller
+br.com.bradseg.capd.capdglobalapi.sorteios.tcap.premiospagos.controller
+br.com.bradseg.capd.capdglobalapi.sorteios.tcap.premiospagos.entity
+br.com.bradseg.capd.capdglobalapi.sorteios.tcap.premiospagos.enums
+br.com.bradseg.capd.capdglobalapi.sorteios.tcap.premiospagos.service
